@@ -1,0 +1,39 @@
+*{
+	margin:0;
+	padding:0;
+	border: 0;
+}
+
+table{
+	border-collapse: collapse;
+	border: 1px solid #ccc;
+	width: 500px;
+	height:32px;
+	line-height: 32px;
+	margin:20px auto;
+}
+
+td,th{
+	text-align: center;
+	border: 1px solid #ccc;
+}
+
+.curD{
+	background-color: #f00;
+	color: #fff;
+}
+
+.empty{
+	background-color: #efefef;
+}
+
+#calendar_header{
+	background-color: #eee;
+	line-height: 40px;
+	height: 40px;
+}
+
+#footer{
+	text-align: center;
+	margin-top: 36px;
+}
